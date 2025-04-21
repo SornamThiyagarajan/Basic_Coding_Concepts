@@ -1,3 +1,24 @@
 ''' The Basic concept for this problem statement is to reverse the given string, 
     Since there are multiple methods and ways to reverse the string, 
       Let's go through all the ways and how it works, and the best/efficient way to use reverse string'''
+
+
+1. Slicing: Quick, clean, and readable.
+
+2. Looping: Good for manual manipulation, teaches string handling.
+
+3. reversed() + join(): Efficient and Pythonic for string reversal.
+
+4. Recursion: Great for understanding recursion and solving problems recursively.
+
+5. Stack: Good for learning data structures, especially LIFO.
+
+6. List Comprehension: Compact, Pythonic solution using comprehension.
+
+7. In-place Reversal: Memory-efficient for large data sets, modifies the string directly.
+
+
+Summary: In-place reversal is the best for cases where you need to reverse the string in-place and modify the string without using extra memory. Efficient for large data.
+
+Note: For all above 4 cases, please find the .py and .cpp files for code snippets
+  
