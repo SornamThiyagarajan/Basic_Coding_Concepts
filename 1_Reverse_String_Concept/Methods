@@ -20,5 +20,5 @@
 
 Summary: In-place reversal is the best for cases where you need to reverse the string in-place and modify the string without using extra memory. Efficient for large data.
 
-Note: For all above 4 cases, please find the .py and .cpp files for code snippets
+Note: For all above 7 cases, please find the .py and .cpp files for code snippets
   
