@@ -57,7 +57,7 @@ def reverse_string_method6(s):
 '''Method7
 In-place Reversal (using list manipulation)
 In-place Reversal: Memory-efficient for large data sets, modifies the string directly.'''
-def reverse_string(s):
+def reverse_string_method7(s):
     s = list(s)
     left, right = 0, len(s) - 1
     while left < right:
